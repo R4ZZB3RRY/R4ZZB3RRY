@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4ZZB3RRY
-- 👀 I’m interested in Cyber Security and my family
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in all things Tech
+- 🌱 I’m currently running a non-profit IT & Cybersecurity business
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... mbplaframboise@outlook.com
 
